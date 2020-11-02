@@ -1,0 +1,5 @@
+{
+  "extensions": ["cogs.timer", "cogs.stopwatch", "cogs.animals", "cogs.picture",
+    "cogs.wiki", "cogs.qr", "cogs.covid", "cogs.pdf", "cogs.translate", "cogs.greet", "cogs.radi",
+    "cogs.voice", "cogs.math", "cogs.quiz"]
+}
